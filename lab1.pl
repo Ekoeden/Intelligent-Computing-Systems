@@ -30,6 +30,7 @@ likes(beth, Food) :-
     likes(mary, Food), 
     Food = corn.
 
+% Запросы:
 % likes(beth, Food).
 % likes(mary, corn).
 % fruit(Fruit).
